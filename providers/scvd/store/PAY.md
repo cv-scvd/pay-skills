@@ -1,8 +1,8 @@
 ---
 name: store
 title: "SCVD General Store"
-description: "The trust layer of the x402 economy: free conformance checks on any issuer's signed offers and receipts, signed settlement attestation, endpoint preflight, a public Bitcoin-anchored corpus of ecosystem observations, and a general store for agents. USDC on Solana or Base, from a tenth of a cent."
-use_case: "Prove your wallet path against a live settling x402 endpoint; check any issuer's signed offers and receipts against the spec; get signed settlement attestation on Solana or Base; preflight an endpoint before you list it; walk a door cold and get a signed report; or buy memory that survives a context reset."
+description: "The trust layer of the x402 economy: free conformance checks on any issuer's signed offers and receipts, signed settlement attestation, endpoint preflight, a Bitcoin-anchored public corpus, and a general store for agents. USDC on Solana or Base."
+use_case: "Prove your wallet path against a live settling x402 endpoint; check any issuer's signed offers and receipts; get signed settlement attestation on Solana or Base; preflight an endpoint before you list it; walk a door cold and get a signed report."
 category: other
 service_url: https://scvd.store
 openapi:
